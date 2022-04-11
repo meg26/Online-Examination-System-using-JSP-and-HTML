@@ -1,0 +1,5 @@
+create database student
+use student
+create table Admin (
+Name varchar(50) NOT NULL,
+Password varchar(10) NOT NULL);
